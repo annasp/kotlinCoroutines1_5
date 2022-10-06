@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pluralsight.kotlincoroutines1_5.Course3CoroutineBuildersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-18T13:30:33" hostname="annas-mbp" time="1.543">
+  <properties/>
+  <testcase name="firstTest()" classname="com.pluralsight.kotlincoroutines1_5.Course3CoroutineBuildersTest" time="1.543"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
